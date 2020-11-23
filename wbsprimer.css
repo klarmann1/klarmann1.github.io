@@ -123,7 +123,7 @@ body {
 
 .article:hover {
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
-    rgba(128, 13, 103, 0.12) 0px -12px 30px, rgba(66, 28, 57, 0.12) 0px 4px 6px,
+    rgba(128, 13, 103, 0.233) 0px -12px 30px, rgba(66, 28, 57, 0.12) 0px 4px 6px,
     rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(94, 3, 71, 0.09) 0px -3px 5px;
   transition: all 1s;
 }
@@ -144,6 +144,12 @@ table a {
   text-decoration: none;
   color: inherit;
 }
+/* table:hover {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(128, 13, 103, 0.12) 0px -12px 30px, rgba(66, 28, 57, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(94, 3, 71, 0.09) 0px -3px 5px;
+  transition: all 1s;
+} */
 
 /*footer css */
 .footwrap {
