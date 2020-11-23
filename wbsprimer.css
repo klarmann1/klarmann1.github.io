@@ -66,8 +66,8 @@ body {
   padding-top: 10px;
 }
 .sidebar {
+  margin-top: 100px;
   list-style-type: none;
-  margin: 0;
   padding: 0;
   width: auto;
   text-align: center;
